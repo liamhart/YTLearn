@@ -5,13 +5,6 @@ Spyder Editor
 @author Liam D. Hart
 University of Rhode Island, B.S. Computer Science
 
-**YouTube Data API Key**
-AIzaSyB0Gpalt_j8pocKlNdtlBA_lueC5d04lMU
-
-**OAuth Authentication Keys**
-Client: 758434957768-miq2f3gfapdnuv6gcdeepvckqv6n61a7.apps.googleusercontent.com
-Secret: 75zYqiHuGgtTS_Br6jQG-0wd
-
 Boiler plate code source: https://developers.google.com/youtube/v3/quickstart/python
 
 """
@@ -38,7 +31,7 @@ API_SERVICE_NAME = "youtube"
 API_VERSION = "v3"
 
 # Key to access YouTube API
-api_key="AIzaSyB0Gpalt_j8pocKlNdtlBA_lueC5d04lMU"
+api_key=<API_KEY>
 
 # This variable defines a message to display if the CLIENT_SECRETS_FILE is
 # missing.
